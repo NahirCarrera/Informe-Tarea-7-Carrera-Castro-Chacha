@@ -45,14 +45,19 @@
 ## <p align=center> 14.4  Carga del devanado secundario.
 
 ## <p align=center> 14.5   Carga reflejada.
+![14 5](https://user-images.githubusercontent.com/93829962/153100052-4c4c54d6-6dd8-457d-bf49-ecb269a3ebc0.jpeg)
 
 ## <p align=center> 14.6  Igualación de impedancia.
+![14 6](https://user-images.githubusercontent.com/93829962/153100058-dc918e93-b197-428d-9388-04765eb40aa9.jpeg)
 
 ## <p align=center> 14.7  Características de un transformador no ideal.  
-  
+![14 7](https://user-images.githubusercontent.com/93829962/153100066-9e786cf3-a852-4832-adc2-60521b2c811d.jpeg)
+
 ## <p align=center> 14.8  Transformadores con tomas y devanados múltiples. 
+![14 8](https://user-images.githubusercontent.com/93829962/153100084-0bb28893-f208-4f36-89d0-a61e4b17c7b6.jpeg)
 
 ## <p align=center> 14.9  Localización de fallas, una aplicación de circuito 
+![14 9](https://user-images.githubusercontent.com/93829962/153100092-c360e5d1-3c85-4def-8585-9e10ce31975f.jpeg)
 
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
