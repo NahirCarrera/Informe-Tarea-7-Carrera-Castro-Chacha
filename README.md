@@ -19,20 +19,13 @@
 
 ## <p align=center> 13.2 Tipos de inductores.
 
-
-
 ## <p align=center> 13.3 Inductores en serie y paralelo.
 
-
-
 ## <p align=center> 13.4 Inductores en circuitos de CD. 
-
-
 
 ## <p align=center> 13.5 Inductores en circuitos de CA.
 
 ## <p align=center> 13.6 Aplicaciones de los inductores, una aplicación de circuito.
-
   
   # CAPÍTULO 14 <p align=center> Transformadores.
     
@@ -64,12 +57,12 @@
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Inductores" y "Transformadores".
   
   ### Capítulo 13 - Ejercicios
-
- 
-
+![Cap 13 1-5](https://user-images.githubusercontent.com/93829962/153108824-cb3f6e69-5069-47d9-95f4-11be8ebed448.JPG)
+![Cap 13 7-11](https://user-images.githubusercontent.com/93829962/153108835-c503b503-536c-427b-8aa4-cf2dab8ee6ea.JPG)
 
   ### Capítulo 14 - Ejercicios
-
+![Cap 14 13-17](https://user-images.githubusercontent.com/93829962/153108846-6b31ce06-d1de-4e45-ad0a-6f3cc308aef0.JPG)
+![Cap 14 19-23](https://user-images.githubusercontent.com/93829962/153108853-a5c89810-43f8-47f3-b00f-3948ac9e2148.JPG)
 
 ## 4. Video
 
