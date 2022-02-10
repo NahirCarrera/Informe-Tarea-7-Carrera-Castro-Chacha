@@ -31,6 +31,7 @@
   # CAPÍTULO 14 <p align=center> Transformadores.
     
 ## <p align=center> 14.1 Inductancia mutua.
+![Cap14-Tema1](https://user-images.githubusercontent.com/93829976/153416584-2e75d51b-8a97-4d16-93c4-a56e0dff99d8.jpeg)
 
 ## <p align=center> 14.2 El transformador básico.
 
