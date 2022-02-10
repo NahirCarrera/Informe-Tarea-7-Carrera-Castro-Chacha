@@ -70,5 +70,6 @@
 
 ## 5. Conclusiones
   * 
+  *El poseer conocimientos de que son y sobre como funcionan los transformadores es muy importante, puesto que son elementos que se tienen presente en muchos aspectos de la vida cotidiana, por ejemplo, en los postes de energía eléctrica existen transformadores que poseen varios devanados para regular el voltaje alterno que ingresará en cada hogar. También se debe tener en cuenta las variaciones que pueden haber en al implementar un transformador, ya que varios aspectos pueden hacer que su función y aplicación cambien, como lo son: si sus devanados están en fase o desfase, la relación de vueltas de sus bobinas, la cantidad de tomas o devanados que posea, y los circuitos en los que vayan a usar, entre otros. Además, para su mejor comprensión es necesario conocer como funcionan los componentes fundamentales de los circuitos, así como, circuitos de corriente directa y alterna.
 ## 6. Bibliografía
   * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
