@@ -26,6 +26,7 @@
 ## <p align=center> 13.5 Inductores en circuitos de CA.
 
 ## <p align=center> 13.6 Aplicaciones de los inductores, una aplicación de circuito.
+![Cap13-Tema6](https://user-images.githubusercontent.com/93829976/153338874-985c0b45-96b3-4791-8a69-aa6cdf5331d8.jpeg)
   
   # CAPÍTULO 14 <p align=center> Transformadores.
     
