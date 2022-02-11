@@ -10,9 +10,9 @@
   ### General: 
   * Analizar los temas comprendidos entre los capítulos 13 y 14 del libro Principios de Circuitos Eléctricos empleando mapas mentales y conceptuales para una posterior resolución de los ejercicios impares planteados.
   ### Específicos
-  * 
-  * 
-  * 
+  * Explicar acerca de los conceptos de Inductores y Transformadores utilizando mapas conceptuales que sirven de apoyo para una mejor comprensión del lector.
+  * Conocer el comportamiento de los Inductores y Transformadores frente a distintos factores para una mejor interpretación de los ejercicios planteados
+  * Aplicar los conocimientos adquiridos para resolver correctamente los ejercicios propuestos en los capítulos 13 y 14
 ## 2. Resumen
   # CAPÍTULO 13: <p align=center> Inductores.
 ## <p align=center> 13.1 El indcutor básico.
@@ -39,11 +39,13 @@
 ![Cap14-Tema1](https://user-images.githubusercontent.com/93829976/153416584-2e75d51b-8a97-4d16-93c4-a56e0dff99d8.jpeg)
 
 ## <p align=center> 14.2 El transformador básico.
+![Cap14-Tema2](https://user-images.githubusercontent.com/93829976/153543049-3324cf0f-940c-4c3c-bed3-c86a80f537fe.jpeg)
 
 ## <p align=center> 14.3 Transformadores elevadores y reductores.
 ![Cap14-Tema3 - Página 1](https://user-images.githubusercontent.com/93829976/153541151-c693864a-fadc-4524-9971-bbd374ee45dd.jpeg)
 
 ## <p align=center> 14.4  Carga del devanado secundario.
+![Cap14-Tema4 - Página 2](https://user-images.githubusercontent.com/93829976/153543058-4a81d91e-65ad-47d4-8929-8b1a9161c43d.jpeg)
 
 ## <p align=center> 14.5   Carga reflejada.
 ![14 5](https://user-images.githubusercontent.com/93829962/153100052-4c4c54d6-6dd8-457d-bf49-ecb269a3ebc0.jpeg)
