@@ -16,14 +16,19 @@
 ## 2. Resumen
   # CAPÍTULO 13: <p align=center> Inductores.
 ## <p align=center> 13.1 El indcutor básico.
+![13 1](https://user-images.githubusercontent.com/93786746/153520480-b1fcaea3-7012-46e2-a3fc-a5abd886930e.png)
 
 ## <p align=center> 13.2 Tipos de inductores.
+![13 2](https://user-images.githubusercontent.com/93786746/153520483-861219a8-a45b-4140-a00e-00427294a167.png)
 
 ## <p align=center> 13.3 Inductores en serie y paralelo.
+![13 3](https://user-images.githubusercontent.com/93786746/153520488-828348a9-e96c-4d3d-a6ba-caec6c63c869.png)
 
 ## <p align=center> 13.4 Inductores en circuitos de CD. 
+![13 4](https://user-images.githubusercontent.com/93786746/153520490-4d9c26eb-74ea-4d7a-9b7a-10e201256788.png)
 
 ## <p align=center> 13.5 Inductores en circuitos de CA.
+![13 5](https://user-images.githubusercontent.com/93786746/153520494-1d3e8fbe-d173-43b4-bedc-012242875d0b.png)
 
 ## <p align=center> 13.6 Aplicaciones de los inductores, una aplicación de circuito.
 ![Cap13-Tema6](https://user-images.githubusercontent.com/93829976/153338874-985c0b45-96b3-4791-8a69-aa6cdf5331d8.jpeg)
