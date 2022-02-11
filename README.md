@@ -41,6 +41,7 @@
 ## <p align=center> 14.2 El transformador básico.
 
 ## <p align=center> 14.3 Transformadores elevadores y reductores.
+![Cap14-Tema3 - Página 1](https://user-images.githubusercontent.com/93829976/153541151-c693864a-fadc-4524-9971-bbd374ee45dd.jpeg)
 
 ## <p align=center> 14.4  Carga del devanado secundario.
 
