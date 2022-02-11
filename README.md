@@ -66,10 +66,21 @@
   ### Capítulo 13 - Ejercicios
 ![Cap 13 1-5](https://user-images.githubusercontent.com/93829962/153108824-cb3f6e69-5069-47d9-95f4-11be8ebed448.JPG)
 ![Cap 13 7-11](https://user-images.githubusercontent.com/93829962/153108835-c503b503-536c-427b-8aa4-cf2dab8ee6ea.JPG)
+![Cap 13_Ejercicios 13-15](https://user-images.githubusercontent.com/93829976/153539972-1af6bd8f-9aab-4f2c-ab5f-be745800710a.png)
+![Cap 13_Ejercicios 17](https://user-images.githubusercontent.com/93829976/153539978-19184fad-a037-4782-815c-f462a112100d.png)
+![Cap 13_Ejercicios 19](https://user-images.githubusercontent.com/93829976/153539985-4919978a-e946-42e5-9034-4c75cc55863a.png)
+![Cap 13_Ejercicios 21 Parte 1](https://user-images.githubusercontent.com/93829976/153539994-100be8bf-057f-4d47-ad96-9f2ba3f6a015.png)
+![Cap 13_Ejercicios 21 Parte 2](https://user-images.githubusercontent.com/93829976/153540000-1a639727-6ca4-4062-97e4-4d98ee5f8638.png)
+![Cap 13_Ejercicios 23](https://user-images.githubusercontent.com/93829976/153540029-5e8d539d-29b8-484d-9f65-0c36fde10ae7.png)
 
   ### Capítulo 14 - Ejercicios
 ![Cap 14 13-17](https://user-images.githubusercontent.com/93829962/153108846-6b31ce06-d1de-4e45-ad0a-6f3cc308aef0.JPG)
 ![Cap 14 19-23](https://user-images.githubusercontent.com/93829962/153108853-a5c89810-43f8-47f3-b00f-3948ac9e2148.JPG)
+![Cap 14_Ejercicios 25 y 27 Parte 1](https://user-images.githubusercontent.com/93829976/153540032-26da1691-8b67-4235-acc1-ab3cd58b01f3.png)
+![Cap 14_Ejercicios 25 y 27 Parte 2](https://user-images.githubusercontent.com/93829976/153540035-f817cad8-0bbf-4063-88f3-5e0f5c2a1dee.png)
+![Cap 14_Ejercicios 29](https://user-images.githubusercontent.com/93829976/153540045-6693fb45-6558-4857-a79f-b9577f10086b.png)
+![Cap 14_Ejercicios 31 Parte 1](https://user-images.githubusercontent.com/93829976/153540052-c18a42af-e308-443e-8bb6-c6a61ef9d3be.png)
+![Cap 14_Ejercicios 31 Parte 2](https://user-images.githubusercontent.com/93829976/153540056-c3005790-a126-4cbb-9ccc-95a6ded27610.png)
 
 ## 4. Video
 
